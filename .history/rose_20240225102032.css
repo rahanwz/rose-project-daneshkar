@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+   padding:2;
+    height: 100vh;
+  background-color: antiquewhite;
+}
+
+
+.exit{
+    display: flex;
+    justify-content: flex-end;
+}

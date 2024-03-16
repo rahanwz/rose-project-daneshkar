@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+  background-color: antiquewhite;
+}
+
+.name_logo{
+    padding: 1rem;
+}
+.hamber_menu{
+    display: flex;
+ 
+    justify-content: flex-end;
+}
+.exit{
+    display: flex;
+    padding: 1rem;
+    justify-content: flex-end;
+}
+
+.work{
+    display: flex;
+    justify-content: center;
+}
+
+.items{
+    display: flex;
+    justify-content: center;
+}

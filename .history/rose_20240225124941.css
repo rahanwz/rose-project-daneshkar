@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.menu_show{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+  .menu{
+  display: none;
+}
+
+
+}
